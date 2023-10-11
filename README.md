@@ -1,6 +1,6 @@
 # Jetson Train
 
-![Jetson Train](jetson_train_logo.png)
+
 
 ## Overview
 
