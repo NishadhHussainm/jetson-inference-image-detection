@@ -27,7 +27,7 @@ sudo apt-get update
 sudo apt-get install git cmake libpython3-dev python3-numpy
 
 # Clone the jetson-inference repository
-git clone --recursive https://github.com/dusty-nv/jetson-inference
+git clone --recursive https://github.com/NishadhHussainm/jetson-inference-image-detection.git
 
 # Navigate to the jetson-inference directory
 cd jetson-inference/
